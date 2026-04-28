@@ -1,0 +1,82 @@
+[
+  {
+    "query": "帮我读一下这篇论文 https://arxiv.org/abs/1706.03762，我想了解Transformer的核心思想是什么",
+    "should_trigger": true
+  },
+  {
+    "query": "这篇CVPR2024的paper的Methods部分有个公式我看不懂，能帮我逐行拆解一下每个符号的含义吗？",
+    "should_trigger": true
+  },
+  {
+    "query": "最近在看Self-supervised Learning，帮我总结一下SimCLR这篇paper的核心创新和实验结论",
+    "should_trigger": true
+  },
+  {
+    "query": "我在看一篇关于扩散模型的综述论文，原文是英文的，能逐段帮我翻译并讲解关键概念吗？",
+    "should_trigger": true
+  },
+  {
+    "query": "这篇ICLR文章里的Figure 3展示的实验对比结果能帮我解读一下吗？横纵坐标分别是什么？",
+    "should_trigger": true
+  },
+  {
+    "query": "刚读完一篇NeurIPS的paper，能帮我生成一份含YAML frontmatter和双向链接的Obsidian读书笔记吗？",
+    "should_trigger": true
+  },
+  {
+    "query": "这篇论文的limitations部分作者自己承认了哪些不足？帮我翻译并分析一下",
+    "should_trigger": true
+  },
+  {
+    "query": "上传了一篇ICML的paper，帮我先三句话概括它解决了什么问题、用了什么方法、取得了什么效果",
+    "should_trigger": true
+  },
+  {
+    "query": "能帮我仔细过一遍这篇论文的Related Work章节吗？我想搞清楚它和之前SOTA方法的本质区别在哪里",
+    "should_trigger": true
+  },
+  {
+    "query": "这篇文章的公式(5)是核心loss函数，我完全看不懂每一项代表什么，能用通俗的语言解释一下吗？",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我把这段Python代码读一下，看看有没有逻辑bug和性能问题",
+    "should_trigger": false
+  },
+  {
+    "query": "这篇微信公众号文章讲了中美关系的最新走向，能帮我翻译成中文并总结要点吗",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我看一下这份产品需求文档PRD，从产品经理的角度提一些改进建议",
+    "should_trigger": false
+  },
+  {
+    "query": "这本教科书第三章讲的是线性代数的特征值分解，能帮我总结一下核心知识点吗",
+    "should_trigger": false
+  },
+  {
+    "query": "这个GitHub项目的README文档是英文的，帮我完整翻译成中文",
+    "should_trigger": false
+  },
+  {
+    "query": "我写了一篇技术博客文章，想让你帮我review一下文字表达是否流畅",
+    "should_trigger": false
+  },
+  {
+    "query": "这是公司内部的季度业务报告，帮我提炼关键数据和趋势",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我看一下这个发明专利的权利要求书，分析其保护范围是否合理",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我把这篇维基百科上关于深度学习的词条内容整理成学习笔记",
+    "should_trigger": false
+  },
+  {
+    "query": "我这个学期要写一篇课程论文，帮我规划一下论文大纲和参考文献方向",
+    "should_trigger": false
+  }
+]
