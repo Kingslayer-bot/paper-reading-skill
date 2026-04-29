@@ -244,7 +244,7 @@ The 20-point analysis framework originates from biomedical systematic review met
 
 ## License
 
-MIT — use it, modify it, read with it.
+MIT 
 
 ---
 
