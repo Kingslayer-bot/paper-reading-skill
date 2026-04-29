@@ -12,6 +12,12 @@
 
 **两条路径、6-8个并行Agent、20+维度分析——用认知架构而非线性阅读来拆解论文。**
 
+<br>
+
+**其他语言 / Other Languages:**
+
+[English](README_EN.md)
+
 </div>
 
 ---
