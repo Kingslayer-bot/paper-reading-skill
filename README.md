@@ -248,7 +248,7 @@ paper-reading-skill/
 
 ## 许可证
 
-MIT — 随便用，随便改，随便读。
+MIT 
 
 ---
 
